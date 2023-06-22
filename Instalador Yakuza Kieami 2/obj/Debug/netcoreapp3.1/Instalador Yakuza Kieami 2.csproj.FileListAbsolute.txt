@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\bin\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.exe
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\bin\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.deps.json
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\bin\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.runtimeconfig.json
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\bin\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\bin\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.dll
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\bin\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.pdb
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador_Yakuza_Kieami_2.Form1.resources
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.dll
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.pdb
+C:\Users\sebas\source\repos\Instalador Yakuza Kieami 2\Instalador Yakuza Kieami 2\obj\Debug\netcoreapp3.1\Instalador Yakuza Kieami 2.genruntimeconfig.cache
