@@ -63,6 +63,26 @@ namespace Instalador_Majimomos.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap gamepass {
+            get {
+                object obj = ResourceManager.GetObject("gamepass", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap steam {
+            get {
+                object obj = ResourceManager.GetObject("steam", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap yakuza_kiwami_2___icon_by_blagoicons_dd87ow6_fullview {
             get {
                 object obj = ResourceManager.GetObject("yakuza_kiwami_2___icon_by_blagoicons_dd87ow6-fullview", resourceCulture);

@@ -19,7 +19,7 @@ namespace Instalador_Majimomos
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            YakuzaKiwami2 tap = new YakuzaKiwami2();
+            Kiwami2 tap = new Kiwami2();
 
             tap.Show();
         }
