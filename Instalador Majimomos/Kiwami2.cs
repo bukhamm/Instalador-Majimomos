@@ -72,10 +72,10 @@ namespace Instalador_Majimomos
             };
 
             string[] destinos = {
-                "carpetaproyecto/data/font/en/yakuza.dds",
-                "carpetaproyecto/data/font/en/yakuza_italic.dds",
-                "carpetaproyecto/data/db.par",
-                "carpetaproyecto/YakuzaKiwami2.exe"
+                $"{ps3_folder}\\data\\font\\en\\yakuza.dds",
+                $"{ps3_folder}\\data\\font\\en\\yakuza_italic.dds",
+                $"{ps3_folder}\\data\\db.par",
+                $"{ps3_folder}\\YakuzaKiwami2.exe"
             };
 
             DescargarArchivos(urls, destinos);

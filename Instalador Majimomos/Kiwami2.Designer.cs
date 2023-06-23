@@ -67,10 +67,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(225, 9);
+            this.label1.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(226, 27);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(354, 23);
+            this.label1.Size = new System.Drawing.Size(329, 18);
             this.label1.TabIndex = 3;
             this.label1.Text = "Seleccione el directorio donde Instalo el Juego";
             // 
