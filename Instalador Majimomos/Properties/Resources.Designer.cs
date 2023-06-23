@@ -73,6 +73,16 @@ namespace Instalador_Majimomos.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Kiwami2Background {
+            get {
+                object obj = ResourceManager.GetObject("Kiwami2Background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap steam {
             get {
                 object obj = ResourceManager.GetObject("steam", resourceCulture);

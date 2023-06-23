@@ -39,7 +39,7 @@
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(229, 100);
+            this.progressBar1.Location = new System.Drawing.Point(49, 133);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(320, 60);
             this.progressBar1.TabIndex = 2;
@@ -47,7 +47,7 @@
             // btnGamepass
             // 
             this.btnGamepass.Image = global::Instalador_Majimomos.Properties.Resources.gamepass;
-            this.btnGamepass.Location = new System.Drawing.Point(229, 300);
+            this.btnGamepass.Location = new System.Drawing.Point(49, 369);
             this.btnGamepass.Name = "btnGamepass";
             this.btnGamepass.Size = new System.Drawing.Size(320, 68);
             this.btnGamepass.TabIndex = 1;
@@ -57,7 +57,7 @@
             // btnSteam
             // 
             this.btnSteam.Image = global::Instalador_Majimomos.Properties.Resources.steam;
-            this.btnSteam.Location = new System.Drawing.Point(229, 220);
+            this.btnSteam.Location = new System.Drawing.Point(49, 269);
             this.btnSteam.Name = "btnSteam";
             this.btnSteam.Size = new System.Drawing.Size(320, 74);
             this.btnSteam.TabIndex = 0;
@@ -67,23 +67,25 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.HotTrack;
             this.label1.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(226, 27);
+            this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label1.Location = new System.Drawing.Point(46, 32);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(329, 18);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Seleccione el directorio donde Instalo el Juego";
+            this.label1.Text = "Seleccione el directorio donde Instaló el Juego";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(229, 51);
+            this.textBox1.Location = new System.Drawing.Point(49, 74);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(302, 20);
             this.textBox1.TabIndex = 4;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(537, 48);
+            this.button1.Location = new System.Drawing.Point(357, 71);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(26, 23);
             this.button1.TabIndex = 5;
@@ -103,7 +105,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 407);
+            this.BackgroundImage = global::Instalador_Majimomos.Properties.Resources.Kiwami2Background;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.ClientSize = new System.Drawing.Size(882, 490);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
