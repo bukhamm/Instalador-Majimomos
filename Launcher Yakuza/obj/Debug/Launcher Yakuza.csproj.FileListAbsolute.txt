@@ -1,0 +1,36 @@
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\bin\Debug\Launcher Yakuza.exe.config
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\bin\Debug\Launcher Yakuza.exe
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\bin\Debug\Launcher Yakuza.pdb
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.AssemblyReference.cache
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.Properties.Resources.resources
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.GenerateResource.cache
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.CoreCompileInputs.cache
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.exe
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.pdb
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.Inicio.resources
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.CopyComplete
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion1.resources
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion2.resources
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion3.resources
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion4.resources
+C:\Users\Keine\source\repos\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion5.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\bin\Debug\Launcher Yakuza.exe.config
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\bin\Debug\Launcher Yakuza.exe
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\bin\Debug\Launcher Yakuza.pdb
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.AssemblyReference.cache
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.Inicio.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion1.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion2.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion3.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion4.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.FormOpcion5.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher_Yakuza.Properties.Resources.resources
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.GenerateResource.cache
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.csproj.CopyComplete
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.exe
+C:\Users\sebas\Downloads\Launcher Yakuza\Launcher Yakuza\Launcher Yakuza\obj\Debug\Launcher Yakuza.pdb
